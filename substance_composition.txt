@@ -1,0 +1,2 @@
+Etanol atomyWęgla,5,atomyWodoru,8,atomTlenu,1
+KwasSiarkowy atomyWodoru,2,atomySiarki,2,atomyTlenu,3
