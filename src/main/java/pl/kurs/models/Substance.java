@@ -1,4 +1,4 @@
 package pl.kurs.models;
 
-public class Experiment {
+public class Substance {
 }
